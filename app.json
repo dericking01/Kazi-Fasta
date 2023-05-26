@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro",
+      "favicon":"./assets/icons/icon.png"
+    },
+    "name": "kazifasta",
+    "slug": "kazifasta",
+    "icon": "./assets/icons/icon.png",
+    "spalsh": {
+      "image":"./assets/icons/splash.png",
+      "resizeMode":"contain",
+      "backgroundColor":"ffffff"
+    },
+    "userInterfaceStyle":"automatic",
+    "ios":{
+      "supportsTablet":true
+    },
+    "android":{
+      "adaptiveIcon":{
+        "foregroundImage":"./assets/icons/adaptive-icon.png",
+        "backgroundColor":"ffffff"
+      }
+    }
+  }
+}

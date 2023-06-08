@@ -1,10 +1,12 @@
-# Kazi-Fasta [icon](https://github.com/dericking01/Kazi-Fasta/assets/83717235/d6a6ab0a-7c99-4b55-8cd7-59427c04c895)
+# <img width="259" alt="kaz" src="https://github.com/dericking01/Kazi-Fasta/assets/83717235/78421f77-e59b-490f-8262-df3329a207b8">
 React Native mobile app that lets you find a job of interest
 You can Run it Locally by run!
 ning these commands 👇
 1. npm install -g expo-cli
-2. npm install
+2. npm install!
+
 3. npx expo start
+
 
 Install the expo app from Playstore/app store then scan the QR CODE to launch the app on your phone
 

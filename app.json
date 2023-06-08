@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro",
+      "favicon":"./assets/images/favicon.png"
+    },
+    "name": "KaziFasta",
+    "slug": "KaziFasta",
+    "icon":"./assets/images/icon.png",
+    "splash":{
+      "image":"./assets/images/splash.png",
+      "resizeMode":"contain",
+      "backgroundColor":"#ffffff"
+    },
+    "assetBundlePatterns": [
+      "★★/★"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android":{
+      "adaptiveIcon":{
+        "foregroundImage":"./assets/images/adaptive-icon.png",
+        "backgroundColor":"#ffffff"
+      }
+    }
+  }
+}
+ 
